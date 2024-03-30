@@ -22,10 +22,17 @@ body {
   .nav-bar {
     height: 5.9rem;
   }
+  .secondsec img {
+    width: 250px;
+  }
   .nav-bar ul li a {
     font-size: 1rem;
     margin-right: 2.2rem;
   }
+}
+.nav-logo {
+  display: flex;
+  align-items: center;
 }
 .nav-bar ul {
   display: flex;
